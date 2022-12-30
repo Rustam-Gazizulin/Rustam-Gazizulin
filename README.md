@@ -1,4 +1,4 @@
-<h1 align="center">ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞<a href="http://rgazizulin174.ga/" target="_blank">ℝ𝕦𝕤𝕥𝕒𝕞</a> 
+<h1 align="center">ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞<a href="http://rgazizulin174.ga/" target="_blank"> ℝ𝕦𝕤𝕥𝕒𝕞</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">🐣 🅹🆄🅽🅸🅾🆁 🎯👽 🅿🆈🆃🅷🅾🅽 ☯💘 🅳🅴🆅🅴🅻🅾🅿🅴🆁 🐣</h3>
 <p align="center">
