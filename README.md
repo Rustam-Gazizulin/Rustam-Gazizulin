@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="http://rgazizulin174.ga/" target="_blank">Rustam</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior python developer<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbestprogrammer.ru%2Fprogrammirovanie-i-razrabotka%2Fspisok-summ-python&psig=AOvVaw15JcCofFU3sdBOz9iK5Gvq&ust=1672486188403000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjQw9qeofwCFQAAAAAdAAAAABAF"</h3>
+<h3 align="center">Junior python developer<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fbestprogrammer.ru%2Fprogrammirovanie-i-razrabotka%2Fspisok-summ-python&psig=AOvVaw15JcCofFU3sdBOz9iK5Gvq&ust=1672486188403000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjQw9qeofwCFQAAAAAdAAAAABAF](https://camo.githubusercontent.com/05b32d51e4a2b9f8b2319c8adfd3cab65379b5d98e2b32ce7f9ff0b19556fa48/68747470733a2f2f692e696d6775722e636f6d2f324a5a6b6d74482e676966)"</h3>
 
 
 
