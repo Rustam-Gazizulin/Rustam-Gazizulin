@@ -7,7 +7,7 @@
 
   
 
-
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
 
 <!--
 **Rustam-Gazizulin/Rustam-Gazizulin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
